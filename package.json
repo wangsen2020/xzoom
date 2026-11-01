@@ -1,6 +1,6 @@
 {
   "name": "xzoom",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Centered image zoom and original photo downloads for X.",
   "type": "module",
   "license": "MIT",

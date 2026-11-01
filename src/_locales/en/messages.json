@@ -1,6 +1,9 @@
 {
+  "extName": {
+    "message": "XZoom – Twitter Image Zoom & Original Downloads"
+  },
   "description": {
-    "message": "Zoom X photos with centered mouse-wheel controls, drag to inspect, and download available originals."
+    "message": "Zoom images on X (Twitter), read long photos, drag to inspect details and download available originals. Free and open source."
   },
   "viewer": {
     "message": "Photo preview: scroll to zoom, drag to pan"
