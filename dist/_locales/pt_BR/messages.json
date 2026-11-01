@@ -1,0 +1,68 @@
+{
+  "description": {
+    "message": "Amplie fotos do X com zoom centralizado, arraste para ver detalhes e baixe os originais disponíveis."
+  },
+  "viewer": {
+    "message": "Prévia da foto: role para ampliar, arraste para mover"
+  },
+  "photo": {
+    "message": "Foto da publicação"
+  },
+  "zoom": {
+    "message": "Zoom da foto"
+  },
+  "scale": {
+    "message": "Nível de zoom"
+  },
+  "loading": {
+    "message": "Carregando original…"
+  },
+  "out": {
+    "message": "Reduzir"
+  },
+  "in": {
+    "message": "Ampliar"
+  },
+  "fit": {
+    "message": "Ajustar à janela"
+  },
+  "actual": {
+    "message": "Tamanho original"
+  },
+  "download": {
+    "message": "Baixar original"
+  },
+  "retry": {
+    "message": "Tentar original novamente"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "preview": {
+    "message": "Prévia"
+  },
+  "unavailable": {
+    "message": "Original indisponível. Tente carregar novamente."
+  },
+  "start": {
+    "message": "Abra uma foto no X para começar."
+  },
+  "gestures": {
+    "message": "Use a roda ou + / − para ampliar. Arraste para mover."
+  },
+  "fitLabel": {
+    "message": "Ajustar à janela"
+  },
+  "actualLabel": {
+    "message": "Tamanho real"
+  },
+  "guide": {
+    "message": "Como instalar"
+  },
+  "source": {
+    "message": "Código-fonte"
+  },
+  "scope": {
+    "message": "Funciona na prévia de fotos do X. Sem IA ou configuração de conta."
+  }
+}

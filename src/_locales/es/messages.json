@@ -1,0 +1,68 @@
+{
+  "description": {
+    "message": "Amplía fotos de X con zoom centrado, arrastra para ver detalles y descarga los originales disponibles."
+  },
+  "viewer": {
+    "message": "Vista previa: usa la rueda para ampliar y arrastra para mover"
+  },
+  "photo": {
+    "message": "Foto de la publicación"
+  },
+  "zoom": {
+    "message": "Zoom de imagen"
+  },
+  "scale": {
+    "message": "Nivel de zoom"
+  },
+  "loading": {
+    "message": "Cargando original…"
+  },
+  "out": {
+    "message": "Alejar"
+  },
+  "in": {
+    "message": "Acercar"
+  },
+  "fit": {
+    "message": "Ajustar a la ventana"
+  },
+  "actual": {
+    "message": "Tamaño original"
+  },
+  "download": {
+    "message": "Descargar original"
+  },
+  "retry": {
+    "message": "Reintentar original"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "preview": {
+    "message": "Vista previa"
+  },
+  "unavailable": {
+    "message": "Original no disponible. Intenta cargarla de nuevo."
+  },
+  "start": {
+    "message": "Abre una foto en X para comenzar."
+  },
+  "gestures": {
+    "message": "Usa la rueda o + / − para ampliar. Arrastra para mover."
+  },
+  "fitLabel": {
+    "message": "Ajustar a ventana"
+  },
+  "actualLabel": {
+    "message": "Tamaño real"
+  },
+  "guide": {
+    "message": "Cómo instalar"
+  },
+  "source": {
+    "message": "Código fuente"
+  },
+  "scope": {
+    "message": "Funciona en la vista de fotos de X. Sin IA ni configuración de cuenta."
+  }
+}
