@@ -2,7 +2,7 @@
 
 <img src="design/logo.png" alt="XZoom logo" width="96">
 
-**1.0.0** · A free, open-source image zoom extension for X, maintained by [GoodExts](https://goodexts.com).
+**1.0.1** · A free, open-source image zoom extension for X, maintained by [GoodExts](https://goodexts.com).
 
 [Installation guide and ready ZIP](https://goodexts.com/blog/xzoom-install) · [中文安装教程](https://goodexts.com/zh/blog/xzoom-install) · [Privacy](PRIVACY.md)
 
@@ -17,16 +17,20 @@ XZoom adds centered mouse-wheel zoom and a small toolbar to X’s native photo p
 
 “Original” means X’s `name=orig` media response. It may already match the preview dimensions; it is not a guarantee of the camera file before upload. Zoom does not add missing detail. Videos, avatars and inline timeline images are outside the scope.
 
+## Version 1.0.1
+
+Localized store titles and summaries now describe image zoom and original-photo downloads in all four languages. The extension homepage points to GoodExts. Photo behavior and site-access scope are unchanged. Store copy and [search-term evidence](tools/store-listing/keywords-20261101.md) are retained with the source.
+
 ## Install without a build
 
-1. Download the ready `xzoom-1.0.0.zip` from the [GoodExts guide](https://goodexts.com/blog/xzoom-install), then extract it into a permanent folder.
+1. Download `xzoom-1.0.1.zip` from the [GitHub release](https://github.com/wangsen2020/xzoom/releases/tag/1.0.1) or the [GoodExts guide](https://goodexts.com/blog/xzoom-install), then extract it into a permanent folder.
 2. Open `chrome://extensions` and enable **Developer mode**.
 3. Click **Load unpacked**, selecting the extracted folder with `manifest.json` directly inside.
 4. Refresh an existing X tab or open a new one, then click a post photo.
 
 When using GitHub’s **Download ZIP** source archive, select the included **dist** folder instead of the repository root. The ready installation ZIP contains `manifest.json` at its root. Keep the loaded folder on disk.
 
-Unpacked extensions do not update automatically. Replace the files in the same folder, reload XZoom in extension management, then refresh X tabs. Remove XZoom from extension management to uninstall. A Chrome Web Store listing is not available at this stage.
+Unpacked extensions do not update automatically. Replace the files in the same folder, reload XZoom in extension management, then refresh X tabs. Remove XZoom from extension management to uninstall. Chrome Web Store 1.0.1 was submitted for review separately. Use the ready ZIP while the listing is pending; a GitHub release does not imply store approval.
 
 ## Controls
 
@@ -51,7 +55,7 @@ npm run test:browser
 npm run package
 ```
 
-Load `dist/` in Chrome. The source is in `src/`; build copies the pinned Panzoom distribution and generates four PNG icon sizes from the included Logo. Packaging produces `artifacts/xzoom-1.0.0.zip` and `SHA256SUMS`.
+Load `dist/` in Chrome. The source is in `src/`; build copies the pinned Panzoom distribution and generates four PNG icon sizes from the included Logo. Packaging produces `artifacts/xzoom-1.0.1.zip` and `SHA256SUMS`.
 
 Browser tests use an isolated Chrome profile and the real installed extension with controlled photo responses. Set `CHROME_PATH` if Chrome is not at the default Windows path. They verify center alignment at desktop and narrow widths, original pixels, drag, downloaded bytes, failure/retry and cleanup. Screenshots and test reports are written under ignored `artifacts/acceptance/`; they contain example content only.
 

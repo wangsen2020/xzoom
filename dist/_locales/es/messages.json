@@ -1,6 +1,9 @@
 {
+  "extName": {
+    "message": "XZoom – Ampliar y descargar fotos de X (Twitter)"
+  },
   "description": {
-    "message": "Amplía fotos de X con zoom centrado, arrastra para ver detalles y descarga los originales disponibles."
+    "message": "Amplía fotos de X (Twitter) con la rueda, arrastra para ver detalles y descarga los originales disponibles. Gratis y código abierto."
   },
   "viewer": {
     "message": "Vista previa: usa la rueda para ampliar y arrastra para mover"

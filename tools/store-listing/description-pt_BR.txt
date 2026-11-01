@@ -1,0 +1,28 @@
+Amplie e baixe fotos do X (Twitter) sem sair do visualizador da publicação. O XZoom facilita a leitura de imagens compridas e permite examinar detalhes com zoom, arraste e tamanho real 1:1.
+
+ZOOM PARA FOTOS E CAPTURAS LONGAS
+• Use a roda do mouse ou os botões + / − para ampliar até 800%.
+• O zoom permanece centralizado na área da imagem, independentemente do cursor.
+• Arraste a imagem ampliada, ajuste à janela ou escolha 1:1 para ver os pixels reais.
+• Clique duas vezes para alternar entre ajuste e tamanho real. Com os controles em foco, use + / − e 0 para ajustar.
+
+BAIXAR FOTOS DO TWITTER EM TAMANHO ORIGINAL
+Ao abrir uma foto, o XZoom solicita o original disponível no X. Depois de carregar, clique em Baixar para salvar. Se falhar, a prévia continua disponível e você pode tentar novamente manualmente.
+Original significa a maior imagem fornecida pelo X, não o arquivo da câmera antes do envio. Algumas prévias já têm as mesmas dimensões. O zoom não cria detalhes ausentes.
+
+COMO USAR
+1. Abra x.com ou twitter.com e clique na foto de uma publicação.
+2. Use a roda para ampliar e arraste para explorar.
+3. Escolha ajuste à janela, 1:1 ou download na barra.
+
+GRÁTIS, CÓDIGO ABERTO E SEM RASTREAMENTO
+Sem conta adicional, serviço de IA, análise de uso ou serviço em segundo plano. A foto atual e seu endereço são processados localmente. As imagens são solicitadas à CDN do X e não são enviadas ao GoodExts nem a provedores de IA.
+
+Mantém os controles nativos de fechar, navegar e ver a publicação. Não processa vídeos, avatares, miniaturas do feed nem downloads em lote.
+Disponível em inglês, chinês simplificado, português do Brasil e espanhol, conforme o idioma do Chrome.
+
+Site: https://goodexts.com/
+Guia: https://goodexts.com/pt-br/blog/xzoom-install
+Código e privacidade: https://github.com/wangsen2020/xzoom
+
+Extensão independente do GoodExts, sem vínculo com a X Corp.

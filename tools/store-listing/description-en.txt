@@ -1,0 +1,28 @@
+Zoom Twitter images and download original photos directly in X's photo viewer. XZoom adds mouse-wheel zoom, + / − controls, drag-to-pan and 1:1 viewing to X (Twitter).
+
+READ LONG IMAGES AND SMALL DETAILS
+• Enlarge a post photo up to 800% with the mouse wheel or + / − buttons.
+• Keep zoom centered in the viewing area, regardless of pointer position.
+• Drag to inspect an enlarged image, fit the whole photo to the window, or use 1:1 to see actual pixels.
+• Double-click to switch between fit and actual size. With the viewer controls focused, use + / − to zoom and 0 to fit.
+
+DOWNLOAD ORIGINAL TWITTER IMAGES
+Opening a photo requests the original image available from X. Once loaded, use Download to save it. If loading fails, keep viewing the preview and retry manually.
+“Original” means the largest image X currently provides, not the camera file before upload. Some previews already have the same dimensions. Zoom does not create missing detail.
+
+HOW TO USE
+1. Open x.com or twitter.com and click a post photo.
+2. Scroll to zoom, then drag to explore the image.
+3. Choose Fit, 1:1 or Download from the toolbar.
+
+FREE, OPEN SOURCE AND NO TRACKING
+No separate account, AI service, analytics or background worker. The current photo and media URL are processed locally. Images are requested from X's image CDN and are not sent to GoodExts or an AI provider.
+
+Works inside the native post photo viewer and preserves X's close, navigation and post-detail controls. Videos, avatars, inline feed images and batch downloads are outside its scope.
+
+Available in English, Simplified Chinese, Brazilian Portuguese and Spanish, following Chrome's language.
+Website: https://goodexts.com/
+Guide: https://goodexts.com/blog/xzoom-install
+Source and privacy: https://github.com/wangsen2020/xzoom
+
+Independent GoodExts extension, not affiliated with X Corp.
