@@ -1,0 +1,68 @@
+{
+  "description": {
+    "message": "在 X 图片预览中居中缩放、拖动查看，并下载可用的原图。"
+  },
+  "viewer": {
+    "message": "图片预览，滚轮缩放，拖动查看"
+  },
+  "photo": {
+    "message": "帖子图片"
+  },
+  "zoom": {
+    "message": "图片缩放"
+  },
+  "scale": {
+    "message": "缩放比例"
+  },
+  "loading": {
+    "message": "正在加载原图…"
+  },
+  "out": {
+    "message": "缩小"
+  },
+  "in": {
+    "message": "放大"
+  },
+  "fit": {
+    "message": "适应窗口"
+  },
+  "actual": {
+    "message": "原始尺寸"
+  },
+  "download": {
+    "message": "下载原图"
+  },
+  "retry": {
+    "message": "重试原图"
+  },
+  "original": {
+    "message": "原图"
+  },
+  "preview": {
+    "message": "预览图"
+  },
+  "unavailable": {
+    "message": "原图暂不可用，可重试加载"
+  },
+  "start": {
+    "message": "在 X 上打开一张图片即可使用。"
+  },
+  "gestures": {
+    "message": "滚轮或 + / − 缩放，拖动查看细节。"
+  },
+  "fitLabel": {
+    "message": "适应窗口"
+  },
+  "actualLabel": {
+    "message": "原始尺寸"
+  },
+  "guide": {
+    "message": "安装指南"
+  },
+  "source": {
+    "message": "源代码"
+  },
+  "scope": {
+    "message": "仅增强 X 图片预览，无需 AI 或账号配置。"
+  }
+}

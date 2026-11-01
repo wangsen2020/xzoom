@@ -1,0 +1,34 @@
+{
+  "manifest_version": 3,
+  "name": "XZoom",
+  "version": "1.0.0",
+  "description": "__MSG_description__",
+  "default_locale": "en",
+  "homepage_url": "https://goodexts.com/blog/xzoom-install",
+  "icons": {
+    "16": "icons/16.png",
+    "32": "icons/32.png",
+    "48": "icons/48.png",
+    "128": "icons/128.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_title": "XZoom"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "https://x.com/*",
+        "https://twitter.com/*"
+      ],
+      "js": [
+        "vendor/panzoom.min.js",
+        "content.js"
+      ],
+      "css": [
+        "content.css"
+      ],
+      "run_at": "document_idle"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "xzoom",
+  "version": "1.0.0",
+  "description": "Centered image zoom and original photo downloads for X.",
+  "type": "module",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "node tools/build.mjs",
+    "test": "node --test tests/*.test.js",
+    "test:browser": "node tools/test-browser.mjs",
+    "package": "npm run build && node tools/package.mjs"
+  },
+  "dependencies": {
+    "@panzoom/panzoom": "4.6.2"
+  },
+  "devDependencies": {
+    "puppeteer-core": "25.16.0",
+    "sharp": "0.34.5",
+    "fflate": "0.8.2"
+  }
+}

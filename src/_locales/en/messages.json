@@ -1,0 +1,68 @@
+{
+  "description": {
+    "message": "Zoom X photos with centered mouse-wheel controls, drag to inspect, and download available originals."
+  },
+  "viewer": {
+    "message": "Photo preview: scroll to zoom, drag to pan"
+  },
+  "photo": {
+    "message": "Post photo"
+  },
+  "zoom": {
+    "message": "Photo zoom"
+  },
+  "scale": {
+    "message": "Zoom level"
+  },
+  "loading": {
+    "message": "Loading original…"
+  },
+  "out": {
+    "message": "Zoom out"
+  },
+  "in": {
+    "message": "Zoom in"
+  },
+  "fit": {
+    "message": "Fit to window"
+  },
+  "actual": {
+    "message": "Original size"
+  },
+  "download": {
+    "message": "Download original"
+  },
+  "retry": {
+    "message": "Retry original"
+  },
+  "original": {
+    "message": "Original"
+  },
+  "preview": {
+    "message": "Preview"
+  },
+  "unavailable": {
+    "message": "Original unavailable. Retry loading."
+  },
+  "start": {
+    "message": "Open a photo on X to start."
+  },
+  "gestures": {
+    "message": "Scroll or use + / − to zoom. Drag to move."
+  },
+  "fitLabel": {
+    "message": "Fit window"
+  },
+  "actualLabel": {
+    "message": "Actual size"
+  },
+  "guide": {
+    "message": "Installation guide"
+  },
+  "source": {
+    "message": "Source code"
+  },
+  "scope": {
+    "message": "Works in X’s photo preview. No AI or account setup."
+  }
+}
